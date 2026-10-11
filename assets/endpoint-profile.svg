@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 328" width="720" height="328" role="img" aria-label="GET /api/developers/ioana returns 200 OK: Software Developer, Faculty of Computer Science Iași, Java and Spring Boot, building robust backend applications, clean code and best practices, debugging with coffee">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 328" width="720" height="328" role="img" aria-label="GET /api/developers/dana returns 200 OK: Software Developer, Faculty of Computer Science Iași, Java and Spring Boot, building robust backend applications, clean code and best practices, debugging with coffee">
   <style>
     .card { fill: #8b949e; fill-opacity: .10; stroke: #8b949e; stroke-opacity: .4; }
     .code { font: 14px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8b949e; white-space: pre; }
@@ -8,8 +8,8 @@
   </style>
   <rect x="1" y="1" width="718" height="326" rx="12" class="card"/>
   <circle cx="28" cy="26" r="6" fill="#ff5f56"/><circle cx="48" cy="26" r="6" fill="#ffbd2e"/><circle cx="68" cy="26" r="6" fill="#27c93f"/>
-  <text x="360" y="30" class="title">ioana — api</text>
-  <text x="32" y="78" class="code" xml:space="preserve"><tspan class="m">GET</tspan> <tspan class="p">/api/developers/ioana</tspan></text>
+  <text x="360" y="30" class="title">dana — api</text>
+  <text x="32" y="78" class="code" xml:space="preserve"><tspan class="m">GET</tspan> <tspan class="p">/api/developers/dana</tspan></text>
   <text x="32" y="102" class="code" xml:space="preserve"><tspan class="d">HTTP/1.1</tspan> <tspan class="ok">200 OK</tspan></text>
   <text x="32" y="126" class="code" xml:space="preserve"><tspan class="b">{</tspan></text>
   <text x="32" y="150" class="code" xml:space="preserve">  <tspan class="k">"role"</tspan>: <tspan class="s">"Software Developer"</tspan>,</text>
