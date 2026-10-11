@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-👋 Hi, I'm **Dana**!
+👋 Hi there!
 
 💻 I'm a **Software Developer** with a Computer Science degree from the **Faculty of Computer Science, Iași**.
 
