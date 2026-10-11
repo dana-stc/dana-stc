@@ -6,7 +6,7 @@
 
 - 🔭 Building robust backend applications with **Java** and **Spring Boot**
 - 🌱 Continuously learning and improving my craft through clean code and best practices
-- ✍️ I write Tech articles here: https://medium.com/@ioana.recianu
+- ✍️ I write Tech articles: https://medium.com/@ioana.recianu
 
 ## 💻 Tech Stack
 
