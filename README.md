@@ -5,9 +5,8 @@
 💻 I'm a **Software Developer** with a Computer Science degree from the **Faculty of Computer Science, Iași**.
 
 - 🔭 Building robust backend applications with **Java** and **Spring Boot**
-- 🗄️ Passionate about designing and optimizing **databases**
 - 🌱 Continuously learning and improving my craft through clean code and best practices
-- 🤝 Open to collaborating on backend and database-focused projects
+- ✍️ I write Tech articles here: https://medium.com/@ioana.recianu
 
 ## 💻 Tech Stack
 
